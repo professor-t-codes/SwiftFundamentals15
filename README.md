@@ -6,9 +6,10 @@
 * Hidden Talent: 
 
 ## Course Information
-* Course Name: **CSC 118 - Swift Fundamentals I**
-* Institution: **[Durham Technical Community College](https://www.durhamtech.edu/)**
-* Textbook: **[Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)**
+* Semester: 
+* Course Name: CSC 118 - Swift Fundamentals I
+* Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
+* Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
 
 ## Textbook Units
 
