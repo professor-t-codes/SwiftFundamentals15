@@ -17,6 +17,7 @@
   <summary>Unit 1: Getting Started with App Development</summary>
   
   ### Swift Lessons
+  * 1.1 Start Defining Your App
   * 1.2 Introduction to Swift and Playgrounds 
   * 1.3 Constants, Variables, and Data Types 
   * 1.4 Operators 
@@ -34,6 +35,7 @@
   <summary>Unit 2: Introduction to UIKit</summary>
 
   ### Swift Lessons
+  * 2.1 Start Your App Prototype
   * 2.2 Strings 
   * 2.3 Functions 
   * 2.4 Structures
@@ -54,6 +56,7 @@
   <summary>Unit 3: Navigation and Workflows</summary>
   
   ### Swift Lessons
+  * 3.1 Prepare to Test Your App
   * 3.2 Optionals
   * 3.3 Type Casting and Inspection
   * 3.4 Guard
